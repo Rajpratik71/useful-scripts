@@ -1,5 +1,6 @@
 
-![find length of sequences of identical values in a numpy array](https://stackoverflow.com/questions/1066758/find-length-of-sequences-of-identical-values-in-a-numpy-array-run-length-encodi)
+
+[find length of sequences of identical values in a numpy array](https://stackoverflow.com/questions/1066758/find-length-of-sequences-of-identical-values-in-a-numpy-array-run-length-encodi)
 
 Fully numpy vectorized and generic RLE for any array (works with strings, booleans etc too).
 Outputs tuple of run lengths, start positions, and values.
